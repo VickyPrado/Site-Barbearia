@@ -1,4 +1,4 @@
-# Site da Barbearia Alura
+# Barbearia-alura
 Projeto criado referente ao curso HTML5 e CSS3 para aprendizado das funções de html e css aplicadas no site da barbearia.
 
 Site criado utilizando as linguagens:
